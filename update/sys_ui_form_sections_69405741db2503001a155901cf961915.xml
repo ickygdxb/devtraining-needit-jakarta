@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_form_sections form_id="69405741db2503001a155901cf961915" sys_domain="global" table="x_58872_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-03-15 00:05:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b79600620f70130038a24cace1050eff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">69405741db2503001a155901cf961915</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">a5409741db2503001a155901cf961972</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-03-15 00:05:50</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit</name>
             <roles/>
